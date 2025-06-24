@@ -98,10 +98,6 @@ SaptaBhumi/
 ## Contribution Guidelines
 We welcome contributions! Please open issues or pull requests for improvements, bug fixes, or new features. For major changes, discuss them via an issue first.
 
-## Contact & Support
-- **Email:** r.dineshdinz12@gmail.com
-
-
 ## Credits & Acknowledgements
 - Artisans and creators featured on SaptaBhumi
 - Open source libraries: Next.js, Tailwind CSS, shadcn/ui, Framer Motion, Lucide Icons, Radix UI
